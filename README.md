@@ -1,3 +1,3 @@
 # project_pertama
 
-project pertama ini adalah untuk belajar github
+Project pertama ini adalah untuk belajar github
